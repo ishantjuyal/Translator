@@ -2,7 +2,7 @@
 A Machine Translation model which converts English to German. 
 
 ## Dataset
-I used the Deutsch to English parallel sentence data from (http://www.manythings.org/anki/)[here]. You can get dataset related to many languages here.
+I used the Deutsch to English parallel sentence data from [here](http://www.manythings.org/anki/). You can get dataset related to many languages here.
 
 ## Approach
 I started with the problem being very confused about what to do with the data and then took some help from online resources. 
